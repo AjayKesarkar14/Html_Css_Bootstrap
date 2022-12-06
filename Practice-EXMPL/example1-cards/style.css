@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+     
+}
+.section{
+    text-align: center;
+    margin: 0px 229px;
+    padding: 143px 64px;
+    
+}
+.sec2{
+    background-color: aliceblue;
+}
+.row{
+    margin-left: 40px;
+}
+.box-shadow{
+    box-shadow: 2px 15px 15px rgb(54 53 53);
+    
+}
+.box{
+    margin: 35px 0;
+}
+.card-text .text-muted{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    
+
+}

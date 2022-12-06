@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(223, 233, 230);
+    display: flex;
+    align-items: center;
+   padding-top: 20px;
+ 
+   
+}
+.signIn{
+width: 100%;
+max-width: 320px;
+margin: auto;
+margin-top: 65px;
+    padding-top: 45px;
+
+
+}
+.form-control{
+    width: 100%;
+    padding: 9px 0;
+    border: 1px rgb(184, 182, 182) solid;
+ border-radius: 5px;
+    
+}
+
+.checkBox{
+    margin: 25px 0;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+
+.btn{
+    width: 100%;
+    display: block;
+}

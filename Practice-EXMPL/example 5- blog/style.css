@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.mid-txt{
+    font-size: 35px;
+    font-weight: bolder;
+}
+.nav a{
+    
+    text-decoration: none;
+}
+
+.mid-sech1{
+    font-style: italic;
+    line-height: 55px;
+}
+.paraOne{
+    font-size: 18px;
+font-weight: 200;
+}
+.paraTwo{
+font-size: 21px;
+font-weight: bolder;
+}
+
+.no-gutters{
+    height: 230px;
+    
+}
+.card-link{
+    text-decoration: none;
+    font-size: 17px;
+}
+.card-link:hover{
+    text-decoration: underline;
+}
+
+.italic{
+    font-style: italic;
+    font-weight: bold;
+}
+.postData a{
+    text-decoration: none;
+}

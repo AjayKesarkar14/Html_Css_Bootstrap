@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(65, 62, 62);
+}
+
+.mainnav{
+    margin: 4px 229px;
+    padding: 0px 150px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+nav .c-name{
+    font-size: 30px;
+}
+.nav-link{
+    margin: 0 10px;
+}
+
+.navbar2{
+    position: absolute;
+    right: 0;
+    padding: 0 103px;
+
+}
+
+.navbar2 a:hover, .active{
+border-bottom: 3px solid white;
+}
+.container{
+    color: white;
+    text-align: center;
+    padding: 30px 113px;
+    margin-top: 90px;
+    
+}
+.container p{
+    margin: 0 100px;
+    padding: 0 50px;
+}
+.btn{
+   font-size: 20px;
+}
+

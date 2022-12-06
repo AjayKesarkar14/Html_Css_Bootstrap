@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+padding: 0;
+}
+body{
+    background-color: aliceblue;
+}
+.container{
+     /* width: 60vw; */
+    /* text-align: center; */
+
+
+}
+.badge{
+    background-color: dimgrey;
+    border-radius: 50px;
+}
+
